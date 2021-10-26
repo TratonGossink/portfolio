@@ -1,0 +1,174 @@
+
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  color: white;
+  font-size: 5.626rem;
+  margin-top: 10px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+
+}
+h2 {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 900;
+  padding-top: 100px;
+}
+H3 {
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+h4 {
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+hr {
+  border: dotted white 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+a {
+
+}
+
+a:hover {
+  color: #11999E;
+}
+p {
+  line-height: 2;
+}
+
+  .top-container {
+  background-color: #F7A440;
+  position: relative;
+  padding-top: 10em;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 150px;
+  bottom: 300px;
+}
+
+.UX {
+  font-size: 2rem;
+  position: relative;
+  margin: auto;
+  text-decoration: underline;
+}
+
+  .middle-container {
+  margin: 10em auto;
+}
+ .intro {
+   width: 30%;
+   margin: auto;
+ }
+
+.Traton-Gossink {
+  width: 15rem;
+  height: 15rem;
+}
+
+.skills {
+background-color: #F7A440;
+position: relative;
+margin: auto;
+
+}
+.skill-row {
+  width: 65%;
+  margin: 100px auto;
+  text-align: left;
+}
+.skill-practice {
+  margin: auto;
+  width: 50%;
+  padding-bottom: 10em;
+}
+.tools {
+  float: left;
+  margin-right: 30px;
+  width: 20%;
+}
+
+.coding-pic {
+  float: right;
+  width: 10rem;
+  height: 10rem;
+  margin-left: 30px;
+}
+
+
+.linkedin {
+  margin: auto;
+  padding-top: 25px;
+  display: inline-flex;
+}
+.bottom-container {
+  margin: auto;
+  padding: 35px 0;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto;
+}
+.footer-hr {
+  border: dotted #F7A440 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 25px auto;
+}
+.copyright {
+  font-size: .75rem;
+}
+
+.btn {
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   height: 20px;
+   line-height: 20px;
+   color: #000000;
+   font-family:'Montserrat', sans-serif;
+   width: 150px;
+   font-size: 20px;
+   font-weight: 900;
+   padding: 15px;
+   background-color: #F7A440;
+   -webkit-box-shadow: 1px 1px 20px 0 #faf3f3;
+   -moz-box-shadow: 1px 1px 50px 0 #faf3f3;
+   box-shadow: 1px 1px 20px 0 #faf3f3;
+   border: outset #F7A440 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #FFFFFF;
+   border: solid #393e46 1px;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   text-decoration: none;
+
+}
